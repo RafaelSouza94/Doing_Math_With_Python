@@ -1,8 +1,10 @@
 def find_correlation(x, y):
 	n = len(x)
 
+	assert n == len(y)
+
 	prod = []
-	for xi, yi in zip(x, y)
+	for xi, yi in zip(x, y):
 		prod.append(xi * yi)
 	sum_prod = sum(prod)
 
