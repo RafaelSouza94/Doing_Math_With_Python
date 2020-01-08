@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 # Draw the graph
 
 def draw_graph(x, y):
-	plt.plot(x, y, marker='o')
+	plt.plot(x, y, marker='x')
 	plt.xlabel('Distance in meters')
 	plt.ylabel('Gravitational force in newtons')
 	plt.title('Gravitational force and distance')
