@@ -39,7 +39,7 @@ pexpect==4.6.0            # via ipython
 pickleshare==0.7.4        # via ipython
 prompt-toolkit==1.0.15    # via ipython, jupyter-console
 ptyprocess==0.6.0         # via pexpect, terminado
-pygments==2.2.0           # via ipython, jupyter-console, nbconvert, qtconsole
+pygments==2.7.4           # via ipython, jupyter-console, nbconvert, qtconsole
 pyparsing==2.2.0          # via matplotlib
 python-dateutil==2.7.3    # via arrow, faker, jupyter-client, matplotlib, pandas
 pytz==2018.4              # via matplotlib, pandas
